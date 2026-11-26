@@ -1,0 +1,27 @@
+{
+  "validUser": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "InvalidUsername": {
+    "username": "standard_us3r",
+    "password": "secret_sauce"
+  },
+  "InvalidPassword": {
+    "username": "standard_user",
+    "password": "cukurukuk"
+  },
+  "InvalidAccount": {
+    "username": "bakekok_user",
+    "password": "password123"
+  },
+  "lockedUser": {
+    "username": "locked_out_user",
+    "password": "secret_sauce"
+  },
+  "checkoutInformation": {
+    "firstName": "Fachrurozi",
+    "lastName": "Alwi",
+    "postalCode": "16710"
+  }
+}
